@@ -41,7 +41,7 @@ Steps taken to solve the problem:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. See solution
 ie.
 "1. Let the Steam Deck battery completely drain.
 2. Let it charge to full using the included power adapter from Valve
