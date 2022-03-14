@@ -17,6 +17,7 @@ Steps to reproduce the problem:
 3. Scroll down to '....'
 4. See error
 ie.
+
 "1. Unplug Steam Deck from Charger
 2. Press the bottom right button (3 dots)
 3. Navigate to the battery/power settings
@@ -42,6 +43,7 @@ Steps taken to solve the problem:
 2. Click on '....'
 3. Scroll down to '....'
 4. See solution
+
 ie.
 "1. Let the Steam Deck battery completely drain.
 2. Let it charge to full using the included power adapter from Valve
