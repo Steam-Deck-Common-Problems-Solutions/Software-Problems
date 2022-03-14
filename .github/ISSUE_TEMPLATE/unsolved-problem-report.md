@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-**Describe the problem**
+### **Describe the problem**
 A clear and concise description of what the problem is ie. "The Steam Deck battery says it is charging when nothing is plugged in."
 
-**To Reproduce**
+### **To Reproduce**
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
@@ -22,16 +22,16 @@ ie.
 3. Navigate to the battery/power settings
 4. See the battery symbol that indicates the Deck is charging"
 
-**Expected behavior**
+### **Expected behavior**
 A clear and concise description of what you expected to happen. ie "I would expect the battery symbol to not say that it is charging."
 
-**Screenshots**
+### **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Steam Deck Information (please complete the following information):**
+### **Steam Deck Information (please complete the following information):**
  - OS version: [e.g. Holo 1.0.1]
  - Desktop Mode Steam Version [e.g. API v020 package version 1648806235]
  - Related Software (if any): [e.g. chrome, GTA5, Ubisoft Connect Launcher, etc]
 
-**Additional context**
+### **Additional context**
 Add any other context about the problem here.
